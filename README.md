@@ -5,11 +5,6 @@
 <br/>
 <br/>
 
-I’m a **Product Data Scientist / Analytics Engineer** with 10+ years of experience building and iterating on data-driven products.  
-My background spans **software engineering, experimentation, and user behavior analysis**, with a strong focus on using data to guide product and UX decisions.
-
-I enjoy working in ambiguous problem spaces, partnering with design and engineering teams, and translating behavioral data into **clear, actionable insights** that improve real user (and player) experiences.
-
 <br/>
 <br/>
 
